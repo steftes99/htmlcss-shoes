@@ -1,0 +1,35 @@
+.container{
+    width: 70%;
+    height: 100vh;
+    margin: auto;
+
+}
+.rosso{
+    background-color: red;
+}
+.scarpa1{
+    width: 60%;
+    position: relative;
+    left: 20%;
+    top: 10%;
+    
+}
+.paragrafo{
+    padding-top: 50px;
+    font-size: 50px;
+    margin: auto;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Permanent Marker', cursive;
+
+}
+.yellow{
+    color: yellow;
+}
+.verde{
+    background-color:#008000;
+}
+.giallo{
+    background-color: yellow;
+}
